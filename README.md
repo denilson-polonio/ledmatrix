@@ -1,7 +1,7 @@
 # LED Matrix Studio
 
 <p align="center">
-  <img src="docs/preview.jpg" alt="LED Matrix Studio running on an Arduino UNO R4 WiFi" width="320">
+  <img src="docs/preview.jpg" alt="LED Matrix Studio running on an Arduino UNO R4 WiFi" width="100%">
 </p>
 
 Create animations for the 12×8 LED matrix of the **Arduino UNO R4 WiFi** from a web page served by the board itself. Draw pixel by pixel, use ready-made shapes and animations, type scrolling text with emoji, import GIF/SVG/images and watch the result live on the matrix.
